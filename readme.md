@@ -2,7 +2,7 @@
 
 *Brady Arendale, Aaron Cattley, John Partee*
 
-[LendingClub](https://www.lendingclub.com/) is a peer-to-peer lending company. Customers can apply for loans, and then investors can choose which loans to invest in based on factors such as income, credit score, and amount of debt. LendingClub assigns grades to each loan based on its own evaluation of these metrics, with worse-graded loads typically having higher interest rates.
+[LendingClub](https://www.lendingclub.com/) is a peer-to-peer lending company. Customers can apply for loans, and then investors can choose which loans to invest in based on factors such as income, credit score, and amount of debt. LendingClub assigns grades to each loan based on its own evaluation of these metrics, with worse-graded loans typically having higher interest rates.
 
 Although a safe investment strategy would be to only invest in highly-graded loans, this also limits the potential return on investment due to the lower interest rates. Therefore, we have decided to train a model to predict whether a loan will default or not, which will give us the confidence to invest in lower-graded loans while mitigating the risk of losses.
 
